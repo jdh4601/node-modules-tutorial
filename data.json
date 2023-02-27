@@ -1,0 +1,8 @@
+{
+  "name": "Jayden",
+  "city": "Seoul",
+  "destination": {
+    "city": "NYC",
+    "street": "Manhattan"
+  }
+}
